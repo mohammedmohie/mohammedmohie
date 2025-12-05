@@ -4,16 +4,12 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D336&center=true&vCenter=true&width=500&lines=Fine-Tuning+LLMs+(LoRA%2FQLORA);Building+Arabic+RAG+Pipelines;Developing+End-to-End+AI+Systems" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D336&center=true&vCenter=true&width=500&lines=Fine-Tuning+LLMs+(LoRA%2FQLORA);Building+AI+Agents;Optimizing+Speech+Models;MLOps+%26+LangChain+End2End)" alt="Typing stuff"/>
     </a>
   </p>
 
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedmohie/mohammedmohie/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedmohie/mohammedmohie/output/github-contribution-grid-snake.svg">
-      <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mohammedmohie/mohammedmohie/output/github-contribution-grid-snake.svg">
-    </picture>
+     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mohammedmohie/mohammedmohie/output/github-contribution-grid-snake.svg">
   </p>
 
   <p align="center">
@@ -27,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Engineering student** and **Junior AI/ML Engineer** with hands-on experience in **Deep Learning** and **Large Language Models**. I specialize in building end-to-end AI systems, from research to deployment.
+I am a **Computer Engineering student** and **Junior AI/ML Engineer** with hands-on experience in **Deep Learning** and **Large Language Models**. I specialize in building end-to-end AI systems, from **designing** to **deploying** scalable machine learning solutions.
 
 🎯 **Experience:**
 - **AI/RAG System Developer** at New Mansoura University: Built a full Arabic speech-to-speech pipeline (Whisper + LangChain)
@@ -78,8 +74,8 @@ I am a **Computer Engineering student** and **Junior AI/ML Engineer** with hands
 ### 🎯 Core Competencies
 - 🧠 **LLM Fine-tuning:** LoRA/QLORA, Parameter-Efficient Training, DSPy Optimization
 - 🔍 **RAG Systems:** Vector Databases (FAISS, ChromaDB), Semantic Search, Document Processing
-- �️ **Computer Vision:** CNNs, Image Classification, Object Detection, Deepfake Detection
-- �🗣️ **Speech AI:** Whisper STT, Voice Synthesis, Real-time Audio Processing
+- 🖼️ **Computer Vision:** CNNs, Image Classification, Object Detection, Deepfake Detection
+- 🗣️ **Speech AI:** Whisper STT, Voice Synthesis, Real-time Audio Processing
 - 🤖 **AI Agents:** LangGraph Workflows, Multi-agent Systems, Conversational AI
 - 📈 **MLOps:** Model Versioning, Experiment Tracking, CI/CD Pipelines
 
@@ -87,7 +83,7 @@ I am a **Computer Engineering student** and **Junior AI/ML Engineer** with hands
 
 ## 🎯 Final Review
 
-As a **Computer Engineering student** with a passion for **AI/ML Engineering**, I bring a unique blend of academic knowledge and hands-on experience. My journey spans from fine-tuning large language models to deploying real-world AI systems that serve thousands of users.
+As a **Computer Engineering student** with a passion for **AI/ML Engineering**, I bring a unique blend of academic knowledge and hands-on experience. My journey spans from fine-tuning large language models to deploying end-to-end AI systems with real-world impact.
 
 **What sets me apart:**
 - 🚀 **Practical Experience**: Built production-ready systems like the Arabic RAG pipeline at New Mansoura University
