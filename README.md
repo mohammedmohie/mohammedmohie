@@ -117,27 +117,9 @@ I'm actively seeking opportunities to contribute to innovative AI projects and c
 🔹 **Interface:** Real-time image classification via **Streamlit** web interface with GPU acceleration.  
 🔹 **Tech:** `PyTorch` `Streamlit` `Computer Vision` `CNNs`
 
----
-
-## 📊 GitHub Statistics
 
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmohie&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmohie&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedmohie&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-</p>
-
----
 
 ## 💡 Quote
 
